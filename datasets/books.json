@@ -1,0 +1,206 @@
+{
+    {   "title": "Good Omens",
+        "_id": "978-0060853983",
+        "authors": ["Neil Gaiman", "Terry Pratchett"],
+        "date": "1990-05-01",
+        "publishers": [{
+            "name": "Workman Publishing Company",
+            "address": [{
+                "street": "225 Varick Street",
+                "city": "New York",
+                "zip": "10014",
+                "state": "NY",
+                "country": "USA"
+            }]
+        }],
+        "available": True,
+        "pages": 288,
+        "summary": "This book is a hilarious take on the apocalypse.",
+        "categories": ["Fantasy", "Humor"],
+        "reviews": [{
+            "customer_id": "jane_doe",
+            "body": "I loved this book! So funny and cleverly written."
+        }],
+        "language": "English"
+    }, 
+{
+    "title": "Atomic Habits",
+    "_id": "978-0735211292",
+    "authors": ["James Clear"],
+    "date": "2018-10-16",
+    "publishers": [{
+        "name": "Avery",
+        "address": [{
+            "street": "375 Hudson Street",
+            "city": "New York",
+            "zip": "10014",
+            "state": "NY",
+            "country": "USA"
+        }]
+    }],
+    "available": True,
+    "pages": 320,
+    "summary": "This book is all about building good habits and breaking bad ones.",
+    "categories": ["Self-help", "Personal Development"],
+    "reviews": [{
+        "customer_id": "john_doe",
+        "body": "This book was life-changing. Highly recommend!"
+    }],
+    "language": "English"
+},
+
+    {
+        "title": "The Da Vinci Code",
+        "_id": "978-0307474278",
+        "authors": ["Dan Brown"],
+        "date": "2009-03-31",
+        "publishers": [{
+            "name": "Anchor",
+            "address": [{
+                "street": "1745 Broadway",
+                "city": "New York",
+                "zip": "10019",
+                "state": "NY",
+                "country": "USA"
+            }]
+        }],
+        "available": True,
+        "pages": 592,
+        "summary": "This book is a mystery thriller that follows symbologist Robert Langdon and cryptologist Sophie Neveu as they investigate a murder in the Louvre Museum in Paris.",
+        "categories": ["Mystery", "Thriller"],
+        "reviews": [{
+            "customer_id": "jack_smith",
+            "body": "Great read! I couldn't put this book down."
+        }],
+        "language": "English"
+    },
+
+    {
+        "title": "The Hunger Games",
+        "_id": "9780439023481",
+        "authors": ["Suzanne Collins"],
+        "date": "2008-09-14",
+        "publishers": [{
+            "name": "Scholastic Press",
+            "address": [{
+                "street": "557 Broadway",
+                "city": "New York",
+                "zip": "10012",
+                "state": "NY",
+                "country": "USA"
+            }]
+        }],
+        "available": True,
+        "pages": 374,
+        "summary": "In a future North America, where the rulers of Panem maintain control through an annual televised survival competition pitting young people from each of the twelve districts against one another, sixteen-year-old Katniss's skills are put to the test when she voluntarily takes her younger sister's place.",
+        "categories": ["Young Adult Fiction", "Science Fiction", "Dystopian Fiction"],
+        "reviews": [{
+            "customer_id": "chinmayihegde",
+            "body": "This book is amazing! The characters are well-developed and the plot is gripping. Highly recommend."
+        }],
+        "language": "English"
+    },
+
+    {
+        "title": "A Burning",
+        "_id": "9780593231746",
+        "authors": ["Megha Majumdar"],
+        "date": "2020-06-02",
+        "publishers": [{
+        "name": "Alfred A. Knopf",
+        "address": [{
+        "street": "1745 Broadway",
+        "city": "New York",
+        "zip": "10019",
+        "state": "NY",
+        "country": "USA"
+        }]
+        }],
+        "available": True,
+        "pages": 288,
+        "summary": "Jivan is a Muslim girl from the slums, determined to move up in life, who is accused of executing a terrorist attack on a train because of a careless comment on Facebook. PT Sir is an opportunistic gym teacher who hitches his aspirations to a right-wing political party, and finds that his own ascent becomes linked to Jivan's fall. Lovely--an irresistible outcast whose exuberant voice and dreams of glory fill the novel with warmth and hope and humor--has the alibi that can set Jivan free, but it will cost her everything she holds dear.",
+        "categories": ["Fiction", "Literary Fiction", "Social Issues Fiction"],
+        "reviews": [{
+        "customer_id": "bookworm123",
+        "body": "This is a beautifully written and thought-provoking book. Highly recommend."
+        }],
+        "language": "English"
+    },
+    {
+"title": "Between the World and Me",
+"_id": "9780812993547",
+"authors": ["Ta-Nehisi Coates"],
+"date": "2015-07-14",
+"publishers": [{
+"name": "Spiegel & Grau",
+"address": [{
+"street": "1745 Broadway",
+"city": "New York",
+"zip": "10019",
+"state": "NY",
+"country": "USA"
+}]
+}],
+"available": True,
+"pages": 176,
+"summary": "This book is written as a letter to the author's teenage son about the feelings, symbolism, and realities associated with being Black in the United States.",
+"categories": ["Biography & Autobiography", "African American Studies", "Social Science"],
+"reviews": [{
+"customer_id": "johnsmith",
+"body": "This book is a must-read for anyone who wants to understand the experience of Black Americans."
+}],
+"language": "English"
+},
+
+{
+"title": "Introduction to Algorithms",
+"_id": "9780262033848",
+"authors": ["Thomas H. Cormen", "Charles E. Leiserson", "Ronald L. Rivest", "Clifford Stein"],
+"date": "2009-07-31",
+"publishers": [{
+"name": "The MIT Press",
+"address": [{
+"street": "77 Massachusetts Avenue",
+"city": "Cambridge",
+"zip": "02139",
+"state": "MA",
+"country": "USA"
+}]
+}],
+"available": True,
+"pages": 1312,
+"summary": "This book provides a comprehensive introduction to the modern study of computer algorithms.",
+"categories": ["Computers", "Computer Science"],
+"reviews": [{
+"customer_id": "janesmith",
+"body": "This is a great reference book for anyone studying computer science."
+}],
+"language": "English"
+},
+
+{
+"title": "Operating System Concepts",
+"_id": "9781118129388",
+"authors": ["Abraham Silberschatz", "Greg Gagne", "Peter B. Galvin"],
+"date": "2012-11-05",
+"publishers": [{
+"name": "John Wiley & Sons",
+"address": [{
+"street": "111 River Street",
+"city": "Hoboken",
+"zip": "07030",
+"state": "NJ",
+"country": "USA"
+}]
+}],
+"available": True,
+"pages": 976,
+"summary": "This book provides a comprehensive introduction to the fundamental concepts of operating systems.",
+"categories": ["Computers", "Operating Systems"],
+"reviews": [{
+"customer_id": "bobjones",
+"body": "This book is an excellent resource for anyone interested in learning about operating systems."
+}],
+"language": "English"
+}
+}

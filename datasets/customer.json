@@ -1,0 +1,93 @@
+[
+    {
+        "name": "Chinmayi Hegde",
+        "_id": "chinmayihegde",
+        "password": "password123",
+        "active": True,
+        "addresses": [
+            {
+            "street": "123 Main Street",
+            "city": "Anytown",
+            "zip": "12345",
+            "state": "CA",
+            "country": "USA"
+            }
+        ],
+        "date_created": "2022-01-15"
+    },
+
+    {
+        "name": "John Smith",
+        "_id": "johnsmith",
+        "password": "password456",
+        "active": True,
+        "addresses": [
+            {
+            "street": "456 Oak Lane",
+            "city": "Anytown",
+            "zip": "67890",
+            "state": "CA",
+            "country": "USA"
+            },
+            {
+            "street": "789 Elm Street",
+            "city": "Othertown",
+            "zip": "12345",
+            "state": "CA",
+            "country": "USA"
+            }
+        ],
+        "date_created": "2022-03-01"
+    },
+
+    {
+        "name": "Jane Doe",
+        "_id": "janedoe",
+        "password": "password789",
+        "active": False,
+        "addresses": [
+            {
+            "street": "321 Maple Avenue",
+            "city": "Sometown",
+            "zip": "67890",
+            "state": "CA",
+            "country": "USA"
+            }
+        ],
+        "date_created": "2022-02-14"
+    },
+
+    {
+        "name": "Bob Johnson",
+        "_id": "bobjohnson",
+        "password": "passwordabc",
+        "active": True,
+        "addresses": [
+            {
+            "street": "456 Pine Street",
+            "city": "Anytown",
+            "zip": "12345",
+            "state": "CA",
+            "country": "USA"
+            }
+        ],
+        "date_created": "2022-04-10"
+    },
+
+    {
+        "name": "Tom Wilson",
+        "_id": "tomwilson",
+        "password": "passwordghi",
+        "active": False,
+        "addresses": [
+            {
+            "street": "123 Oak Drive",
+            "city": "Anytown",
+            "zip": "67890",
+            "state": "CA",
+            "country": "USA"
+            }
+        ],
+        "date_created": "2022-06-18"
+    }
+]

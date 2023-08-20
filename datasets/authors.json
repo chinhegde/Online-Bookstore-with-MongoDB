@@ -1,0 +1,78 @@
+[
+    {
+        "_id": "abrahams!lberschatz",
+        "first_name": "Abraham",
+        "last_name": "Silberschatz",
+        "country": "USA"
+    },
+
+    {
+        "_id": "greggagne",
+        "first_name": "Greg",
+        "last_name": "Gagne",
+        "country": "USA"
+    },
+
+    {
+        "_id": "peterbgalvin",
+        "first_name": "Peter B.",
+        "last_name": "Galvin",
+        "country": "USA"
+    },
+
+    {
+        "_id": "thomashcormen",
+        "first_name": "Thomas H.",
+        "last_name": "Cormen",
+        "country": "USA"
+    },
+
+    {
+        "_id": "charleseleiserson",
+        "first_name": "Charles E.",
+        "last_name": "Leiserson",
+        "country": "USA"
+    },
+
+    {
+        "_id": "ronaldlrive$t",
+        "first_name": "Ronald L.",
+        "last_name": "Rivest",
+        "country": "USA"
+    },
+
+    {
+        "_id": "cliff0rdstein",
+        "first_name": "Clifford",
+        "last_name": "Stein",
+        "country": "USA"
+    },
+
+    {
+        "_id": "tanehis!coates",
+        "first_name": "Ta-Nehisi",
+        "last_name": "Coates",
+        "country": "USA"
+    },
+
+    {
+        "_id": "meghama!umdar",
+        "first_name": "Megha",
+        "last_name": "Majumdar",
+        "country": "India"
+    },
+
+    {
+        "_id": "suzannec0llins",
+        "first_name": "Suzanne",
+        "last_name": "Collins",
+        "country": "USA"
+    },
+
+    {
+        "_id": "danbrown1",
+        "first_name": "Dan",
+        "last_name": "Brown",
+        "country": "USA"
+    }
+]

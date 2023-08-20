@@ -1,0 +1,68 @@
+
+HEGDE_AUTHOR
+{
+  "_id": string,
+  "first_name": string,
+  "last_name": string,
+  "country": string
+}
+
+
+HEGDE_CUSTOMER:
+{
+  "name": string
+  "_id": string, // username
+  "password": string,
+  "active": boolean,
+  "addresses": [{
+      "street": string,
+      "city": string,
+      "zip": string,
+      "state": string,
+      "country": string
+  }],
+  "date_created": date
+}
+
+HEGDE_ORDER:
+{
+  "_id": string, 
+  "order_date": date,
+  "delivery_date": date,
+  "customer_id": string,
+  "books": [{
+      "book_id": string,
+      "quantity": int,
+      "price": float
+  }]
+}
+
+HEGDE_BOOK
+{
+  "title": string,
+  "_id": string, // ISBN
+  "authors": [string],
+  "date": date,
+  "publishers": [{
+      "name": string,
+      "address": [{
+          "street": string,
+          "city": string,
+          "zip": string,
+          "state": string,
+          "country": string
+      }]
+  }],
+  "available": boolean,
+  "pages": int,
+  "summary": string,
+  "categories": [string],
+  "reviews": [{
+      "customer_id": string,
+      "body": string
+  }],
+  "language": string
+}
+
+
+

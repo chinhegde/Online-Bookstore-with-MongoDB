@@ -1,0 +1,81 @@
+[
+    {
+        "_id": "ord123",
+        "order_date": "2023-04-22",
+        "delivery_date": "2023-05-01",
+        "customer_id": "chinmayihegde",
+        "books": [{
+            "book_id": "9780812993547",
+            "quantity": 1,
+            "price": 15.99
+        }]
+    },
+
+    {
+        "_id": "ord456",
+        "order_date": "2023-04-23",
+        "delivery_date": "2023-05-03",
+        "customer_id": "janesmith",
+        "books": [{
+            "book_id": "9780262033848",
+            "quantity": 2,
+            "price": 89.99
+        }]
+    },
+
+    {
+        "_id": "ord789",
+        "order_date": "2023-04-21",
+        "delivery_date": "2023-04-30",
+        "customer_id": "bobjones",
+        "books": [{
+            "book_id": "9781118129388",
+            "quantity": 1,
+            "price": 129.99
+        }]
+    },
+
+    {
+        "_id": "ord101",
+        "order_date": "2023-04-23",
+        "delivery_date": "2023-05-05",
+        "customer_id": "chinmayihegde",
+        "books": [{
+            "book_id": "9780439023511",
+            "quantity": 3,
+            "price": 29.99
+            }, {
+            "book_id": "9781593279287",
+            "quantity": 2,
+            "price": 19.99
+        }]
+    },
+
+    {
+        "_id": "ord202",
+        "order_date": "2023-04-20",
+        "delivery_date": "2023-04-28",
+        "customer_id": "marylee",
+        "books": [{
+            "book_id": "9780735211292",
+            "quantity": 1,
+            "price": 24.99
+        }]
+    },
+
+    {
+        "_id": "ord303",
+        "order_date": "2023-04-23",
+        "delivery_date": "2023-05-06",
+        "customer_id": "markgreen",
+        "books": [{
+            "book_id": "9781787135270",
+            "quantity": 1,
+            "price": 34.99
+            }, {
+            "book_id": "9780525536642",
+            "quantity": 2,
+            "price": 29.99
+        }]
+    }
+]
